@@ -43,9 +43,10 @@ The goal is to understand product performance, sales trends, and city-wise reven
 * Category-wise insights
 
 ## 📊Visualizations
-~Top 5 Products by Revenue
-~Monthly Sales Trend
-~Top 5 Cities by Revenue
+* Top 5 Products by Revenue
+* Monthly Sales Trend
+* Top 5 Cities by Revenue
+  
 
 ## ⚙️ How to Run
 
@@ -63,9 +64,10 @@ python visualization.py
 * Identified top-performing products
 * Analyzed revenue distribution across cities
 * Found stock and discount patterns
-*A few products contribute significantly to overall revenue
-*Sales vary across months, showing noticeable trends
-*Certain cities generate higher revenue than others
+* A few products contribute significantly to overall revenue
+* Sales vary across months, showing noticeable trends
+* Certain cities generate higher revenue than others
+
 ---
 
 ## 👨‍💻 Author
